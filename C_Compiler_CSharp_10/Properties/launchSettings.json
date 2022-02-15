@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "C_Compiler_CSharp_10": {
+      "commandName": "Project",
+      "commandLineArgs": "-rebuild -print Main Malloc CType ErrNo Locale Math SetJmp Signal File Temp Scanf Printf StdLib Time String PrintTest CharacterTest FloatTest LimitsTest AssertTest StringTest LocaleTest SetJmpTest MathTest FileTest StdIOTest SignalTest StackTest MallocTest StdLibTest TimeTest"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.exe
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.deps.json
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.runtimeconfig.json
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfoInputs.cache
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfo.cs
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CopyComplete
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\Stefan\Documents\C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.deps.json
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.runtimeconfig.json
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.exe
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.exe
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.deps.json
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.runtimeconfig.json
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.pdb
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CopyComplete
+C:\Users\stefa\OneDrive\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.genruntimeconfig.cache
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.deps.json
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.runtimeconfig.json
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.exe
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.exe
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.deps.json
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.runtimeconfig.json
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\QUT.ShiftReduceParser.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\bin\Debug\net6.0\C_Compiler_CSharp_10.pdb
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfoInputs.cache
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.AssemblyInfo.cs
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.csproj.CopyComplete
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\ref\Calculator_CS_10.dll
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.pdb
+C:\Users\stefa\Documents\A A C_Compiler_CSharp_10\Calculator_CS_10\obj\Debug\net6.0\Calculator_CS_10.genruntimeconfig.cache

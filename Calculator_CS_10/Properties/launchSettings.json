@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Calculator_CS_10": {
+      "commandName": "Project",
+      "commandLineArgs": "Input.txt",
+      "workingDirectory": "C:\\Users\\stefa\\Documents\\A A C_Compiler_CSharp_10\\Calculator_CS_10"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0265b530-b585-48ba-9a30-3a1807564c1c": {
+      "ProjectGuid": "0265b530-b585-48ba-9a30-3a1807564c1c",
+      "DisplayName": "C_Compiler_CSharp_10",
+      "ColorIndex": 0
+    },
+    "564b4101-f4c9-49ea-9adc-189f4818f384": {
+      "ProjectGuid": "564b4101-f4c9-49ea-9adc-189f4818f384",
+      "DisplayName": "Calculator_CS_10",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
